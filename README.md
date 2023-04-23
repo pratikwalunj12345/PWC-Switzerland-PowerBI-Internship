@@ -36,13 +36,13 @@ Task 3: Diversity & Inclusion
 
 Calculating the following measures could help to define proper KPIs:
 
-# of men
-# of women
-# of leavers
-% employees promoted (FY21)
-% of women promoted
-% of hires men
-% of hires women
-% turnover 
+Percent of men
+Percent of women
+Percent of leavers
+Percent employees promoted (FY21)
+Percent of women promoted
+Percent of hires men
+Percent of hires women
+Percent turnover 
 Average performance rating: men
 Average Performance rating: women
